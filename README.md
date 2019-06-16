@@ -1,2 +1,1 @@
-# Alvin
-using opencv
+using opencv with c++ library
